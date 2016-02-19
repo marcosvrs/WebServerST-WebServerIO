@@ -5,3 +5,8 @@ With [Bootstrap](http://getbootstrap.com/), [Controlling an LED from an Arduino 
 It uses 4 OUTPUT pins (6,7,8,9) and 4 INPUT pins* (0,1,2,3)
 
 I'm working on it with...
+
+Knowledge Issues:
+
+- Arduino crashs after something, but I can't get when and why.
+- The apple-touch-icon files doesn't are loading to web clients.
