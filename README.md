@@ -9,4 +9,4 @@ I'm working on it with...
 Knowledge Issues:
 
 - Arduino crashs after something, but I can't get when and why.
-- The apple-touch-icon files doesn't are loading to web clients.
+- The apple-touch-icon files don't load to web clients.
